@@ -16,7 +16,7 @@ sections:
             filename: Banner.png
             filters:
               brightness: 0.7
-          position: right
+          position: bottom #right
           color: '#666'
 
       - title: Taiwan-Japan Neuroscience Exchange Association (TJNEA)
