@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       text: 
-        <h5>Welcome to the Taiwan–Japan Neuroscience Exchange Association (TJNEA)</h5>
+        <h5>Welcome to the Taiwan–Japan Neuroscience Exchange Association 🇹🇼🇯🇵</h5>
         <p>
         The Taiwan–Japan Neuroscience Exchange Association (TJNEA) is a community-driven initiative dedicated to fostering academic exchange and collaboration between neuroscience researchers in Taiwan and Japan. Our mission is to create an open, inclusive, and sustainable platform where ideas, techniques, and collaborations can grow beyond institutional and national boundaries.
         </p>
