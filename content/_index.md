@@ -10,7 +10,7 @@ sections:
   - block: slider
     content: 
       slides:
-      - title: Welcome to 
+      - title: 'Welcome to' 
         content: 'Taiwan–Japan Neuroscience Exchange Association (TJNEA)'
         align: center
         background:
