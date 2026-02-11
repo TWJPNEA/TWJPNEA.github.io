@@ -16,7 +16,7 @@ sections:
           image:
             filename: Banner.jpg
             filters:
-              brightness: 0.75
+              brightness: 0.8
           position: right
           color: '#666'
     design:

@@ -15,7 +15,7 @@ sections:
           image:
             filename: 2025_3.png
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: right
           color: '#666'
 
@@ -26,7 +26,7 @@ sections:
           image:
             filename: 2025_2.png
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: right
           color: '#666'
 
@@ -37,7 +37,7 @@ sections:
           image:
             filename: 2025_1.png
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: right
           color: '#666'
 
@@ -48,7 +48,7 @@ sections:
           image:
             filename: 2024_1.png
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: right
           color: '#666'
 
@@ -59,7 +59,7 @@ sections:
           image:
             filename: 2023_3.png
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: right
           color: '#666'
 
@@ -70,7 +70,7 @@ sections:
           image:
             filename: 2023_2.png
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: right
           color: '#666'
 
@@ -81,7 +81,7 @@ sections:
           image:
             filename: 2023_1.png
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: right
           color: '#666'
     design:
