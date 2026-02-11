@@ -14,7 +14,7 @@ sections:
         align: center
         background:
           image:
-            filename: Banner.png
+            filename: coders.jpg
             filters:
               brightness: 0.75
           position: right
@@ -41,7 +41,7 @@ sections:
         <p>
         Looking forward, TJNEA seeks to expand its role as a hub for Taiwan–Japan neuroscience collaboration by continuously refining our events, broadening participation, and supporting new cross-border research connections.
         </p>
-          
+
     design:
       columns: '2'
 
