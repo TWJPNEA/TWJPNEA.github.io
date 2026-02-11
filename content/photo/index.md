@@ -13,7 +13,29 @@ sections:
         align: right #center
         background:
           image:
-            filename: 2024_1.png
+            filename: 2025_3.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+
+      - title: ''
+        content: ''
+        align: right #center
+        background:
+          image:
+            filename: 2025_2.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+
+      - title: ''
+        content: ''
+        align: right #center
+        background:
+          image:
+            filename: 2025_1.png
             filters:
               brightness: 0.7
           position: right
@@ -35,12 +57,33 @@ sections:
         align: right #center
         background:
           image:
-            filename: 2024_1.png
+            filename: 2023_3.png
             filters:
               brightness: 0.7
           position: right
           color: '#666'
 
+      - title: ''
+        content: ''
+        align: right #center
+        background:
+          image:
+            filename: 2023_2.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+
+      - title: ''
+        content: ''
+        align: right #center
+        background:
+          image:
+            filename: 2023_1.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
