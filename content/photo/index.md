@@ -9,8 +9,8 @@ sections:
     content:
       slides:
       - title: ''
-        content: '2023'
-        align: end #center
+        content: '<p></p><p></p><p></p><p></p>2023'
+        align: right #center
         background:
           image:
             filename: Banner.png
