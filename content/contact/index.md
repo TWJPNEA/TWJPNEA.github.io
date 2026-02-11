@@ -9,19 +9,19 @@ sections:
     content:
       #title: Contact
       text: 
-        If you are interested in joining us, please contact me (Dr. Pin-Wu Liu).
+        'For general inquiries, event-related questions, or potential collaboration opportunities, please feel free to contact us at:'
       
-      email: liu.pinwu.52n@kyoto-u.jp
-      phone: ''
-      address:
-        street: xxx, No 1001, University Rd.
-        city: Hsinchu
-        region: Taiwan
-        postcode: ''
-      directions: ''
-      coordinates:
-        latitude: '24.7882255'
-        longitude: '120.9934156'
+      email: twnjpnnea@gmail.com
+      #phone: ''
+      #address:
+      #  street: xxx, No 1001, University Rd.
+      #  city: Hsinchu
+      #  region: Taiwan
+      #  postcode: ''
+      #directions: ''
+      #coordinates:
+      #  latitude: '24.7882255'
+      #  longitude: '120.9934156'
       
       #office_hours:
       #  - 'Monday 10:00 to 13:00'

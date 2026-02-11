@@ -1,11 +1,12 @@
 ---
-title: 2026 Taiwan-Japan Neuroscience Exchange Workshop
-date: 2025-08-01
+title: Save the Date! 
+date: 2026-01-01
 #image:
 #  focal_point: 'top'
 ---
 
-2026 Taiwan-Japan Neuroscience Exchange Workshop
+The Taiwan–Japan Neuroscience Exchange Meeting 2026 will take place on August 24–25, 2026, at Academia Sinica, Taipei, Taiwan. 
+Further details coming soon📣
 
 <!--more-->
 
