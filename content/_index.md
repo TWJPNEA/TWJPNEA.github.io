@@ -6,11 +6,10 @@ date: 2022-10-24
 type: landing
 
 sections:
-
   - block: slider
     content: 
       slides:
-      - title: 'Welcome to' 
+      - title: Welcome to
         content: 'Taiwan–Japan Neuroscience Exchange Association (TJNEA)'
         align: center
         background:
@@ -20,14 +19,10 @@ sections:
               brightness: 0.75
           position: right
           color: '#666'
-
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
-      # Automatically transition through slides?
       loop: false
-      # Duration of transition between slides (in ms)
       interval: 2000
 
   - block: contact
@@ -46,8 +41,7 @@ sections:
         <p>
         Looking forward, TJNEA seeks to expand its role as a hub for Taiwan–Japan neuroscience collaboration by continuously refining our events, broadening participation, and supporting new cross-border research connections.
         </p>
-
-      
+          
     design:
       columns: '2'
 
