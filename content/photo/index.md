@@ -8,13 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: ''
-        content: '　
-                  　
-                  　
-                  　
-                  　
-                  2023'
+      - title: '<p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p>'
+        content: '2023'
         align: right #center
         background:
           image:
