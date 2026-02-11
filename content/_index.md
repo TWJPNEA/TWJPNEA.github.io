@@ -15,7 +15,7 @@ sections:
         align: center
         background:
           image:
-            filename: icon.png
+            filename: Banner.png
             filters:
               brightness: 0.75
           position: right
