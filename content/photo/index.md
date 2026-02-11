@@ -9,7 +9,12 @@ sections:
     content:
       slides:
       - title: ''
-        content: '<p></p><p></p><p></p><p></p>2023'
+        content: '　
+                  　
+                  　
+                  　
+                  　
+                  2023'
         align: right #center
         background:
           image:
