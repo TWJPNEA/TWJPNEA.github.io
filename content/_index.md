@@ -11,7 +11,7 @@ sections:
       slides:
       - title: Welcome to
         content: 'Taiwan–Japan Neuroscience Exchange Association (TJNEA)'
-        align: center
+        align: left
         background:
           image:
             filename: coders.jpg
@@ -24,6 +24,25 @@ sections:
       is_fullscreen: true
       loop: false
       interval: 2000
+  
+  - block: collection  
+    content:
+      title: News
+      subtitle:
+      text:
+      count: 1
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: stream #card
+      columns: '2'
 
   - block: contact
     content:
