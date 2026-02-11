@@ -14,7 +14,7 @@ sections:
         align: left
         background:
           image:
-            filename: coders.jpg
+            filename: Banner.jpg
             filters:
               brightness: 0.75
           position: right
