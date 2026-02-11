@@ -8,9 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Taiwan-Japan Neuroscience Exchange Association (TJNEA)
-        content: 'Taiwan-Japan Neuroscience Exchange Association (TJNEA)'
-        align: bottom #center
+      - title: ''
+        content: '2023'
+        align: end #center
         background:
           image:
             filename: Banner.png
