@@ -10,13 +10,13 @@ sections:
       slides:
       - title: Taiwan-Japan Neuroscience Exchange Association (TJNEA)
         content: 'Taiwan-Japan Neuroscience Exchange Association (TJNEA)'
-        align: center
+        align: bottom #center
         background:
           image:
             filename: Banner.png
             filters:
               brightness: 0.7
-          position: bottom #right
+          position: right
           color: '#666'
 
       - title: Taiwan-Japan Neuroscience Exchange Association (TJNEA)
