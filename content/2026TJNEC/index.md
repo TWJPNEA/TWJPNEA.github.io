@@ -1,5 +1,5 @@
 ---
-title: About
+title: 2026TJNEC
 date: 2022-10-24
 
 type: landing
@@ -10,8 +10,6 @@ sections:
       text: 
         <h5>2026 Taiwan-Japan Neuroscience Exchange Conference</h5>
         
-        
-      
     design:
       columns: '2'
 ---
