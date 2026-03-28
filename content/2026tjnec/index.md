@@ -22,7 +22,7 @@ sections:
           <img src="Aug25.jpg">
         </div>
         <p>
-        We invite participants to present their work through poster or oral presentations. Both poster and oral sessions will take place on the first afternoon.
+        <u>We invite participants to present their work through poster or oral presentations.</u> Both poster and oral sessions will take place on the first afternoon.
         </p>
         <p>
         Please note that both poster and oral presentation slots are limited. Poster submissions will be selected based on relevance and balance of topics. Short oral presentation slots (5–10 minutes) will be prioritized for early-career researchers who have recently established their own research groups.
