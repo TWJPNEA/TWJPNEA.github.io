@@ -16,10 +16,10 @@ sections:
         Building on a growing network of cross-border collaborations, this meeting will focus on the theme “Islands of Mountain and Ocean”, highlighting cross-species neuroscience research—from molecular mechanisms and neural circuits to behavior—across diverse model organisms.
         </p>
         <div>
-          <img src="Aug24">
+          <img src="Aug24.jpg">
         </div>
         <div>
-          <img src="Aug25">
+          <img src="Aug25.jpg">
         </div>
         <p>
         We invite participants to present their work through poster or oral presentations. Both poster and oral sessions will take place on the first afternoon.
