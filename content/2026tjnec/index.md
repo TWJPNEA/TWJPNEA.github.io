@@ -25,6 +25,24 @@ sections:
         We warmly welcome students and postdoctoral researchers. This workshop is designed as an interactive platform to build connections, exchange ideas, and explore future collaborations within an emerging Taiwan–Japan neuroscience network.
         </p>
         
+        <p>
+        For more details about the program and speakers, please visit <a href="https://twjpnea.github.io/2026tjnec/" target=_blank>
+        </p>
+        <p>
+        <b>Pre-registration:</b> Open until Friday, July 15th, 2026
+        <b>Poster & Oral presentation submission:</b> Wednesday, June 30th, 2026
+        (Notification of selections will be sent via email)
+        </p>
+        <p>
+        Event Details
+        <b>Date:</b> August 24–25, 2026
+        <b>Venue:</b> Academia Sinica, Taipei, Taiwan
+        <b>Organizers:</b> Kuo-Sheng Lee, Takeshi Imai, Nao Nakagawa-Tamagawa, Pin-Wu Liu
+        <b>Co-organizers:</b> Japan Society for the Promotion of Science – Dynamic Brain Project
+        </p>
+        <p>
+        If you have any question, please contact us at twnjpnnea@gmail.com
+        </p>
 
     design:
       columns: '2'
