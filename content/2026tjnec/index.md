@@ -35,26 +35,20 @@ sections:
         </p>
         <p>
         <b>Pre-registration:</b> Open until Friday, July 15th, 2026
-        </p>
-        <p>
+        <br/>
         <b>Poster & Oral presentation submission:</b> Wednesday, June 30th, 2026
-        </p>
-        <p>
+        <br/>
         (Notification of selections will be sent via email)
         </p>
         <p>
         Event Details
-        </p>
-        <p>
+        <br/>
         <b>Date:</b> August 24–25, 2026
-        </p>
-        <p>
+        <br/>
         <b>Venue:</b> Academia Sinica, Taipei, Taiwan
-        </p>
-        <p>
+        <br/>
         <b>Organizers:</b> Kuo-Sheng Lee, Takeshi Imai, Nao Nakagawa-Tamagawa, Pin-Wu Liu
-        </p>
-        <p>
+        <br/>
         <b>Co-organizers:</b> Japan Society for the Promotion of Science – Dynamic Brain Project
         </p>
         <p>
