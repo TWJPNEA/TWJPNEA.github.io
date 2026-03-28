@@ -26,7 +26,7 @@ sections:
         </p>
         
         <p>
-        For more details about the program and speakers, please visit <a href="https://twjpnea.github.io/2026tjnec/" target=_blank>
+        For more details about the program and speakers, please visit <a href="https://twjpnea.github.io/2026tjnec/" target=_blank> https://twjpnea.github.io/2026tjnec/ </a>
         </p>
         <p>
         <b>Pre-registration:</b> Open until Friday, July 15th, 2026
