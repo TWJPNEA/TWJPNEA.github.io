@@ -32,7 +32,7 @@ sections:
         We warmly welcome students and postdoctoral researchers. This workshop is designed as an interactive platform to build connections, exchange ideas, and explore future collaborations within an emerging Taiwan–Japan neuroscience network.
         </p>
         <p>
-        For more details about the program and speakers, please visit <a href="https://twjpnea.github.io/2026tjnec/" target=_blank> https://twjpnea.github.io/2026tjnec/ </a>
+        For more details about the program and speakers, please visit <a href="https://twjpnea.github.io/2026tjnec/"> https://twjpnea.github.io/2026tjnec/ </a>
         </p>
         <p>
         <b>Pre-registration:</b> Open until Friday, July 15th, 2026
