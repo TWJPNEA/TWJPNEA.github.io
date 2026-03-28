@@ -1,6 +1,6 @@
 ---
 title: 2026 Taiwan-Japan Neuroscience Exchange Conference！
-date: 2026-04-01
+date: 2026-03-27
 #image:
 #  focal_point: 'top'
 ---
