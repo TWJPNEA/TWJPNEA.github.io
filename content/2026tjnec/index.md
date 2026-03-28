@@ -57,8 +57,9 @@ sections:
         </p>
 
         {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
+        
         <div>
-          <img src="QRcode.png">
+          <img src="QRcode.png" alt="Registration" class="center">
         </div>
     design:
       columns: '2'
