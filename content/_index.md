@@ -30,7 +30,7 @@ sections:
       title: News
       subtitle:
       text:
-      count: 1
+      count: 2
       filters:
         author: ''
         category: ''

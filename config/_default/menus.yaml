@@ -13,6 +13,9 @@ main:
   - name: About
     url: about
     weight: 30
+  - name: 2026TJNEC
+    url: 2026TJNEC
+    weight: 40
   - name: Seminar
     url: seminar
     weight: 40
