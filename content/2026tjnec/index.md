@@ -21,6 +21,7 @@ sections:
         <div>
           <img src="Aug25.jpg">
         </div>
+        <br/>
         <p>
         <u>We invite participants to present their work through poster or oral presentations.</u> Both poster and oral sessions will take place on the first afternoon.
         </p>

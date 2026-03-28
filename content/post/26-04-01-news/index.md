@@ -9,4 +9,8 @@ We are excited to host the Taiwan–Japan Neuroscience Exchange conference along
 
 <!--more-->
 
+    <p>
+    For more details about the program and speakers, please visit <a href="https://twjpnea.github.io/2026tjnec/" target=_blank> https://twjpnea.github.io/2026tjnec/ </a>
+    </p>
+
 
