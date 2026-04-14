@@ -10,7 +10,7 @@ sections:
       text: 
         <h5>2026 Taiwan-Japan Neuroscience Exchange conference</h5>
         
-        <div class="cta-row">
+        <div class="cta-inline">
         {{% cta cta_link="../about/" cta_text="Program" %}}
         {{% cta cta_link="../about/" cta_text="Speakers" %}}
         {{% cta cta_link="../about/" cta_text="Registration" %}}
