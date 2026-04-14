@@ -8,6 +8,36 @@ sections:
   - block: contact
     content:
       text: 
+        <h5>2026 Taiwan-Japan Neuroscience Exchange conference</h5>
+
+        <p>
+        We are pleased to host the Taiwan–Japan Neuroscience Exchange conference, held alongside the Taiwan Society for Neuroscience Annual Meeting (August 21–23, 2026, Taipei, Taiwan). This workshop aims to foster scientific exchange and long-term collaboration between neuroscience communities in Taiwan and Japan.
+        </p>
+        <p>
+        The meeting will focus on the theme “Islands of Mountain and Ocean”, highlighting cross-species neuroscience research across multiple levels, from molecular mechanisms to behavior.
+        </p>
+        <p>
+        We invite participants to present their work through poster or oral presentations. Both sessions will take place on the first afternoon. Please note that presentation slots are limited and will be selected based on relevance and program balance. Short oral presentations (5–10 minutes) will be prioritized for early-career researchers who have recently established their own research groups.
+        </p>
+        <p>
+        We warmly welcome students and postdoctoral researchers, and encourage active interaction and networking throughout the workshop.
+        </p>
+        <p>
+        Pre-registration deadline: July 15, 2026 (Friday)
+        Poster & Oral submission deadline: June 30, 2026 (Wednesday)
+        </p>
+        <p>
+        (Notification of selection results will be sent via email)
+        </p>
+        <p>
+        Event Details
+        </p>
+        <p>
+        Date: August 24–25, 2026
+        </p>
+        <p>
+        Venue: Academia Sinica, Taipei, Taiwan
+
         <h5>2026 Taiwan-Japan Neuroscience Exchange Conference</h5>
         <p>
         We are excited to host the <b>Taiwan–Japan Neuroscience Exchange conference</b> alongside the annual Taiwan Society for Neuroscience Annual Meeting (August 21–23, 2026, Taipei, Taiwan), aiming to foster deeper scientific exchange and long-term collaboration between neuroscience communities in Taiwan and Japan.
