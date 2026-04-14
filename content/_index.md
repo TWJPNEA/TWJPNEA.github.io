@@ -9,7 +9,7 @@ sections:
   - block: slider
     content: 
       slides:
-      - title: Welcome to
+      - title: Welcome
         content: 'Taiwan–Japan Neuroscience Exchange Association'
         align: left
         background:

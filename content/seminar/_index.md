@@ -1,5 +1,5 @@
 ---
-title: Seminar
+title: Evnts
 
 # Listing view
 view: compact #card #list #compact
