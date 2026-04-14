@@ -10,8 +10,15 @@ sections:
       text: 
         <h5>2026 Taiwan-Japan Neuroscience Exchange conference</h5>
         
-        {{% cta cta_link="../about/" cta_text="Program" %}} {{% cta cta_link="../about/" cta_text="Speakers" %}} {{% cta cta_link="../about/" cta_text="Registration" %}}
-
+        <div style="text-align: left;">
+          {{% cta cta_link="../about/" cta_text="Program" %}}
+        </div>
+        <div style="text-align: left;">
+          {{% cta cta_link="../about/" cta_text="Speakers" %}}
+        </div>
+        <div style="text-align: left;">
+          {{% cta cta_link="../about/" cta_text="Registration" %}}
+        </div>
         <p>
         We are pleased to host the Taiwan–Japan Neuroscience Exchange conference, held alongside the Taiwan Society for Neuroscience Annual Meeting (August 21–23, 2026, Taipei, Taiwan). This workshop aims to foster scientific exchange and long-term collaboration between neuroscience communities in Taiwan and Japan.
         </p>
@@ -19,7 +26,7 @@ sections:
         The meeting will focus on the theme "Islands of Mountain and Ocean", highlighting cross-species neuroscience research across multiple levels, from molecular mechanisms to behavior.
         </p>
         <p>
-        We invite participants to present their work through poster or oral presentations. Both sessions will take place on the first afternoon. Please note that presentation slots are limited and will be selected based on relevance and program balance. Short oral presentations (5–10 minutes) will be prioritized for early-career researchers who have recently established their own research groups.
+        <u>We invite participants to present their work through poster or oral presentations.</u> Both sessions will take place on the first afternoon. Please note that presentation slots are limited and will be selected based on relevance and program balance. Short oral presentations (5–10 minutes) will be prioritized for early-career researchers who have recently established their own research groups.
         </p>
         <p>
         We warmly welcome students and postdoctoral researchers, and encourage active interaction and networking throughout the workshop.
