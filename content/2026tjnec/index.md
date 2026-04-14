@@ -26,7 +26,22 @@ sections:
         <p>
         We warmly welcome students and postdoctoral researchers, and encourage active interaction and networking throughout the workshop.
         </p>
-
+        <p>
+        <b>Pre-registration deadline:</b> July 15, 2026 (Friday)
+        <b>Poster & Oral submission deadline:</b> June 30, 2026 (Wednesday)
+        </p>
+        <p>
+        (Notification of selection results will be sent via email)
+        </p>
+        <p>
+        Event Details
+        </p>
+        <p>
+        <b>Date:</b> August 24–25, 2026
+        </p>
+        <p>
+        <b>Venue:</b> Academia Sinica, Taipei, Taiwan
+        </p>
 
 
         <h5>2026 Taiwan-Japan Neuroscience Exchange Conference</h5>
