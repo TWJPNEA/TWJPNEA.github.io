@@ -30,8 +30,7 @@ sections:
         <b>Pre-registration deadline:</b> July 15, 2026 (Friday)
         <br>
         <b>Poster & Oral submission deadline:</b> June 30, 2026 (Wednesday)
-        </p>
-        <p>
+        <br>
         (Notification of selection results will be sent via email)
         </p>
         <p>
