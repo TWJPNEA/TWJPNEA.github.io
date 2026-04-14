@@ -1,5 +1,5 @@
 ---
-title: Evnts
+title: 
 
 # Listing view
 view: compact #card #list #compact
