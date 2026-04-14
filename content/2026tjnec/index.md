@@ -10,15 +10,10 @@ sections:
       text: 
         <h5>2026 Taiwan-Japan Neuroscience Exchange conference</h5>
         
-        <div style="text-align: left;">
-          {{% cta cta_link="../about/" cta_text="Program" %}}
-        </div>
-        <div style="text-align: left;">
-          {{% cta cta_link="../about/" cta_text="Speakers" %}}
-        </div>
-        <div style="text-align: left;">
-          {{% cta cta_link="../about/" cta_text="Registration" %}}
-        </div>
+        {{% cta cta_link="../about/" cta_text="Program" %}}
+        {{% cta cta_link="../about/" cta_text="Speakers" %}}
+        {{% cta cta_link="../about/" cta_text="Registration" %}}
+
         <p>
         We are pleased to host the Taiwan–Japan Neuroscience Exchange conference, held alongside the Taiwan Society for Neuroscience Annual Meeting (August 21–23, 2026, Taipei, Taiwan). This workshop aims to foster scientific exchange and long-term collaboration between neuroscience communities in Taiwan and Japan.
         </p>
