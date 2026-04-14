@@ -41,7 +41,7 @@ sections:
         </p>
         <p>
         Venue: Academia Sinica, Taipei, Taiwan
-
+        </p>
         <h5>2026 Taiwan-Japan Neuroscience Exchange Conference</h5>
         <p>
         We are excited to host the <b>Taiwan–Japan Neuroscience Exchange conference</b> alongside the annual Taiwan Society for Neuroscience Annual Meeting (August 21–23, 2026, Taipei, Taiwan), aiming to foster deeper scientific exchange and long-term collaboration between neuroscience communities in Taiwan and Japan.
