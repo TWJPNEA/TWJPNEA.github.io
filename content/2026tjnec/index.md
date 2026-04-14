@@ -12,8 +12,8 @@ sections:
         
         <div class="cta-inline">
           <a class="btn btn-primary btn-lg" href="../about/">Program</a>
-          <a class="btn btn-primary btn-lg" href="../speakers/">Speakers</a>
-          <a class="btn btn-primary btn-lg" href="../registration/">Registration</a>
+          <a class="btn btn-primary btn-lg" href="../about/">Speakers</a>
+          <a class="btn btn-primary btn-lg" href="https://forms.gle/aSerYeXCLNVxnmaD9">Registration</a>
         </div>
 
         <p>
