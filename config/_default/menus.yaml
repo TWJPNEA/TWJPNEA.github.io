@@ -13,13 +13,13 @@ main:
   - name: About
     url: about
     weight: 30
-  - name: 2026TJNEC
+  - name: 2026 conference
     url: 2026tjnec
     weight: 40
-  - name: Seminar
+  - name: Past event
     url: seminar
     weight: 40
-  - name: Photo
+  - name: Gallery
     url: photo
     weight: 50
   - name: Contact
