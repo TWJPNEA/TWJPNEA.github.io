@@ -13,3 +13,9 @@
   color: white;
   border: none;
 }
+
+.cta-inline {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px; /* 按鈕間距 */
+}
