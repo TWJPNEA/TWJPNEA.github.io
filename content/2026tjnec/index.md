@@ -44,10 +44,7 @@ sections:
         </p>
 
         <div>
-          <img src="Aug24.jpg">
-        </div>
-        <div>
-          <img src="Aug25.jpg">
+          <img src="Program.jpg">
         </div>
         
         #{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
