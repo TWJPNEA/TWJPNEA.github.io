@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       text: 
-        <h5>2026 Taiwan-Japan Neuroscience Exchange conference</h5>
+        <h2>2026 Taiwan-Japan Neuroscience Exchange conference</h2>
         
         <div class="cta-inline">
           <a class="btn btn-success btn-lg" href="TW-JP tentative program_0415.pdf" target="_blank">Program</a>
@@ -43,9 +43,9 @@ sections:
         <b>Venue:</b> Academia Sinica, Taipei, Taiwan
         </p>
 
-        <div>
-          <img src="Program.jpg">
-        </div>
+        #<div>
+        #  <img src="Program.jpg">
+        #</div>
         
         #{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
         
