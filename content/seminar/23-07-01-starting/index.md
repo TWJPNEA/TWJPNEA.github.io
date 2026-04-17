@@ -20,6 +20,9 @@ Designed as an evening networking-focused symposium, the event combined brief in
 The symposium concluded with an open networking session featuring food and drinks, encouraging informal discussion and cross-cultural exchange among participants from diverse backgrounds and career stages. This event established the foundation for TJNEA’s continued involvement in Taiwan–Japan neuroscience exchange activities.
 </p>
 
+<div class="cta-inline">
+    <a class="btn btn-custom btn-lg" href="Program_book_2023_JNS_Taiwan_Night.pdf" target="_blank">Program</a>
+</div>
 <!--more-->
 
 
