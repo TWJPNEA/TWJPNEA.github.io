@@ -65,17 +65,32 @@ sections:
         #</div>
     design:
       columns: '2'
+
   - block: contact
     content:
       #title: Contact
       text: 
-        <h2 id="Program">Program </h2>
+        <h2 id="Program">Program</h2>
 
         <iframe 
           src="Program.pdf" 
           width="100%" 
-          height="600px" 
-          style="border: none;">
+          height="600px" >
+        </iframe>
+
+    design:
+      columns: '2'
+
+- block: contact
+    content:
+      #title: Contact
+      text: 
+        <h2 id="Speakers">Speakers</h2>
+
+        <iframe 
+          src="Speakers.pdf" 
+          width="100%" 
+          height="600px">
         </iframe>
 
     design:
