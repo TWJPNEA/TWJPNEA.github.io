@@ -48,13 +48,13 @@ sections:
         </p>
         <div>
         <a href="https://plaza.umin.ac.jp/dynamic-brain/en/" target="_blank">
-        <img src="DynamicBrain.png" alt="Co-organizers">
+        <img src="DynamicBrain.png">
         </a>
         </div>
         <br>
         <div>
         <a href="https://www.ibms.sinica.edu.tw/" target="_blank">
-        <img src="IBMS.png" alt="Co-organizers">
+        <img src="IBMS.png">
         </a>
         </div>
         #{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
