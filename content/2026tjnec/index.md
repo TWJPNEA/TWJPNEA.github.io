@@ -81,7 +81,7 @@ sections:
     design:
       columns: '2'
 
-- block: contact
+  - block: contact
     content:
       #title: Contact
       text: 
