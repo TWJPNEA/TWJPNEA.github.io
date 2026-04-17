@@ -13,7 +13,7 @@ sections:
         <div class="cta-inline">
           <a class="btn btn-custom btn-lg" href="Program.pdf" target="_blank">Program</a>
           <a class="btn btn-custom btn-lg" href="Speaker_info.pdf" target="_blank">Speakers</a>
-          <a class="btn btn-custom btn-lg" href="#travel">Travel Information </a>
+          <a class="btn btn-custom btn-lg" href="#travel">Travel Info </a>
           <a class="btn btn-custom btn-lg" href="https://forms.gle/aSerYeXCLNVxnmaD9" target="_blank">Registration</a>
         </div>
         <br>
@@ -72,8 +72,36 @@ sections:
       text: 
         <h2 id="travel">Travel Information </h2>
 
+        <b>Venue</b>
+        <br>
+        <p>
+        The conference will take place at Academia Sinica, Taipei, Taiwan.
+        </p>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.788613746345!2d121.61224677537676!3d25.041246827811776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab4501e8c151%3A0x2f2b63fe4251d55c!2sAcademia%20Sinica!5e0!3m2!1sen!2stw!4v1776435462304!5m2!1sen!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+        <p>
+        Academia Sinica is accessible from Taiwan Taoyuan International Airport (TPE, approximately 40–60 minutes) and Taipei Songshan Airport (TSA, approximately 20–30 minutes) by taxi or public transportation.
+        </p>
+        <b>Accommodation</b>
+        <br>
+        <p>
+        On-campus accommodation is available at the Academia Sinica Guest House.
+        https://dga.sinica.edu.tw/posts/78730
+        </p>
+        <p>
+        Availability is limited, and early reservation is recommended.
+        Hotels are also available in the nearby Nangang area.
+        </p>
+        <b>Gernal Information</b>
+        <br>
+        <p>
+        Most visitors can enter Taiwan visa-free for short stays, depending on nationality.
+        </p>
+        <p>
+        For more detailed information on visa requirements, currency, telecommunications, and transportation, please refer to<b>:</b>
+        https://eng.taiwan.net.tw/m1.aspx?sNo=0000218
+        </p>
+        
     design:
       columns: '2'
 
