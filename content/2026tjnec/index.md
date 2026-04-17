@@ -48,7 +48,7 @@ sections:
         </p>
         <div>
         <a href="https://plaza.umin.ac.jp/dynamic-brain/en/" target="_blank">
-        <img src="DynamicBrain.png" alt="Co-organizers" style="max-width: 100%; height: auto;">
+        <img src="DynamicBrain.png" alt="Co-organizers">
         </a>
         </div>
         
