@@ -11,7 +11,7 @@ sections:
         <h2>2026 Taiwan-Japan Neuroscience Exchange conference</h2>
         
         <div class="cta-inline">
-          <a class="btn btn-custom btn-lg" href="TW-JP tentative program_0415.pdf" target="_blank">Program</a>
+          <a class="btn btn-custom btn-lg" href="Program.pdf" target="_blank">Program</a>
           <a class="btn btn-custom btn-lg" href="Speaker_info.pdf" target="_blank">Speakers</a>
           <a class="btn btn-custom btn-lg" href="https://forms.gle/aSerYeXCLNVxnmaD9" target="_blank">Registration</a>
         </div>
