@@ -13,7 +13,7 @@ sections:
         <div class="cta-inline">
           <a class="btn btn-custom btn-lg" href="Program.pdf" target="_blank">Program</a>
           <a class="btn btn-custom btn-lg" href="Speaker_info.pdf" target="_blank">Speakers</a>
-          <a class="btn btn-custom btn-lg" href="" target="_blank">Access info & Accomendation</a>
+          <a class="btn btn-custom btn-lg" href="#accomendation" target="_blank">Access info & Accomendation</a>
           <a class="btn btn-custom btn-lg" href="https://forms.gle/aSerYeXCLNVxnmaD9" target="_blank">Registration</a>
         </div>
         <br>
@@ -65,4 +65,16 @@ sections:
         #</div>
     design:
       columns: '2'
+
+  - block: contact
+    content:
+      #title: Contact
+      text: 
+        <h2 id="accomendation">Access info & Accomendation</h2>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.788613746345!2d121.61224677537676!3d25.041246827811776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab4501e8c151%3A0x2f2b63fe4251d55c!2sAcademia%20Sinica!5e0!3m2!1sen!2stw!4v1776435462304!5m2!1sen!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    design:
+      columns: '2'
+
 ---
