@@ -19,15 +19,3 @@
   justify-content: flex-end;
   gap: 10px; /* 按鈕間距 */
 }
-
-.site-title {
-  font-size: 2rem;
-  line-height: 1.2;
-}
-
-@media (max-width: 768px) {
-  .site-title {
-    font-size: 1.2rem;
-    line-height: 1.3;
-  }
-}
