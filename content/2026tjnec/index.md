@@ -88,7 +88,7 @@ sections:
         <h2 id="Speakers">Speakers</h2>
 
         <iframe 
-          src="Speaker_info.pdf" 
+          src="Speaker_info_.pdf" 
           width="100%" 
           height="600px">
         </iframe>
