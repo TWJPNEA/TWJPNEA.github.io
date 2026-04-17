@@ -97,8 +97,7 @@ sections:
         Most visitors can enter Taiwan visa-free for short stays, depending on nationality.
         </p>
         <p>
-        For more detailed information, including visa requirements, currency, telecommunications, and transportation, please refer to<b>:</b>
-        https://eng.taiwan.net.tw/m1.aspx?sNo=0000218
+        For more detailed information, including visa requirements, currency, telecommunications, and transportation, please refer to <a href="https://eng.taiwan.net.tw/m1.aspx?sNo=0000218" target="_blank">Taiwan Travel Information</a>
         </p>
         
     design:
