@@ -36,13 +36,13 @@ sections:
         (Notification of selection results will be sent via email)
         </p>
         <p>
-        Event Details
+        <b>Event Details</b>
         <br>
-        <b>Date:</b> August 24–25, 2026
+        Date<b>:</b> August 24–25, 2026
         <br>
-        <b>Venue:</b> Academia Sinica, Taipei, Taiwan
+        Venue<b>:</b> Academia Sinica, Taipei, Taiwan
         <br>
-        <b>Organizers:</b> Kuo-Sheng Lee, Nao Nakagawa-Tamagawa, Pin-Wu Liu, Takeshi Imai
+        Organizers<b>:</b> Kuo-Sheng Lee, Nao Nakagawa-Tamagawa, Pin-Wu Liu, Takeshi Imai
         </p>
 
         #<div>
