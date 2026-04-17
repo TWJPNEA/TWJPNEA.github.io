@@ -20,13 +20,15 @@
   gap: 10px; /* 按鈕間距 */
 }
 
-.navbar-brand {
+@media (max-width: 768px) {
+  .navbar-brand {
     display: inline-block;
     padding-top: .35rem;
     padding-bottom: .35rem;
     margin-right: 1rem;
-    font-size: 0.8rem;
+    font-size: 1.0rem;
     line-height: inherit;
     white-space: nowrap;
+  }
 }
 
