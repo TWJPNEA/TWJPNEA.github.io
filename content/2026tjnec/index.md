@@ -86,8 +86,6 @@ sections:
         <br>
         <p>
         On-campus accommodation is available at the Academia Sinica <a href="https://dga.sinica.edu.tw/switch?locale=en" target="_blank">Guest House</a>.
-        </p>
-        <p>
         Availability is limited, and early reservation is recommended.
         Hotels are also available in the nearby Nangang area.
         </p>
