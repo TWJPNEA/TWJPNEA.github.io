@@ -41,6 +41,8 @@ sections:
         <b>Date:</b> August 24–25, 2026
         <br>
         <b>Venue:</b> Academia Sinica, Taipei, Taiwan
+        <br>
+        <b>Organizers:</b> Kuo-Sheng Lee, Nao Nakagawa-Tamagawa, Pin-Wu Liu, Takeshi Imai
         </p>
 
         #<div>
