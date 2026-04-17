@@ -13,7 +13,7 @@ sections:
         <div class="cta-inline">
           <a class="btn btn-custom btn-lg" href="Program.pdf" target="_blank">Program</a>
           <a class="btn btn-custom btn-lg" href="Speaker_info.pdf" target="_blank">Speakers</a>
-          <a class="btn btn-custom btn-lg" href="Program.pdf" target="_blank">Access info & Accomendation</a>
+          <a class="btn btn-custom btn-lg" href="" target="_blank">Access info & Accomendation</a>
           <a class="btn btn-custom btn-lg" href="https://forms.gle/aSerYeXCLNVxnmaD9" target="_blank">Registration</a>
         </div>
         <br>
