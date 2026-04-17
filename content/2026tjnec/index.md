@@ -85,7 +85,7 @@ sections:
         <b>Accommodation</b>
         <br>
         <p>
-        On-campus accommodation is available at the Academia Sinica <a href="https://dga.sinica.edu.tw/posts/78730" target="_blank">Guest House</a>.
+        On-campus accommodation is available at the Academia Sinica <a href="https://dga.sinica.edu.tw/switch?locale=en" target="_blank">Guest House</a>.
         </p>
         <p>
         Availability is limited, and early reservation is recommended.
