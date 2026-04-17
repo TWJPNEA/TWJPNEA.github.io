@@ -43,11 +43,14 @@ sections:
         Venue<b>:</b> Academia Sinica, Taipei, Taiwan
         <br>
         Organizers<b>:</b> Kuo-Sheng Lee, Nao Nakagawa-Tamagawa, Pin-Wu Liu, Takeshi Imai
+        <br>
+        Co-organizers<b>:</b>
         </p>
-
-        #<div>
-        #  <img src="Program.jpg">
-        #</div>
+        <div>
+        <a href="https://plaza.umin.ac.jp/dynamic-brain/en/" target="_blank">
+        <img src="DynamicBrain.png" alt="Co-organizers" style="max-width: 100%; height: auto;">
+        </a>
+        </div>
         
         #{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
         
