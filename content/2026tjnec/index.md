@@ -79,7 +79,7 @@ sections:
         </iframe>
 
     design:
-      columns: '2'
+      columns: '1'
 
   - block: contact
     content:
@@ -88,13 +88,13 @@ sections:
         <h2 id="Speakers">Speakers</h2>
 
         <iframe 
-          src="Speakers.pdf" 
+          src="Speaker_info.pdf" 
           width="100%" 
           height="600px">
         </iframe>
 
     design:
-      columns: '2'
+      columns: '1'
 
   - block: contact
     content:
