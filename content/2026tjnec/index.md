@@ -115,9 +115,8 @@ sections:
         <b>Accommodation</b>
         <br>
         <p>
-        On-campus accommodation is available at the Academia Sinica <a href="https://tlathena.ec-hotel.net/webhotel-v4/0081/index?locale=en&_rand=cjt1b1qpqn9" target="_blank">Guest House</a>.
+        On-campus accommodation is available at the Academia Sinica <a href="https://tlathena.ec-hotel.net/webhotel-v4/0081/index?locale=en&_rand=cjt1b1qpqn9" target="_blank">Guest House</a>. Availability is limited, and early reservation is recommended.
         <br>
-        Availability is limited, and early reservation is recommended.
         Hotels are also available in the nearby Nangang area.
         </p>
         <b>Gernal Information</b>
