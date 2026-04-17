@@ -51,6 +51,7 @@ sections:
         <img src="DynamicBrain.png" alt="Co-organizers">
         </a>
         </div>
+        <br>
         <div>
         <a href="https://www.ibms.sinica.edu.tw/" target="_blank">
         <img src="IBMS.png" alt="Co-organizers">
