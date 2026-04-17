@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       text: 
-        <h2>2026 Taiwan-Japan Neuroscience Exchange conference</h2>
+        <h2>2026 Taiwan-Japan Neuroscience Exchange Conference</h2>
         
         <div class="cta-inline">
           <a class="btn btn-custom btn-lg" href="Program.pdf" target="_blank">Program</a>
