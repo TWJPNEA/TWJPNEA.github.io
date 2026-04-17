@@ -18,7 +18,9 @@ The workshop brought together researchers from Taiwan, Japan, and other countrie
 <p>
 Through a combination of scientific presentations and extended open discussion, the 2025 workshop emphasized collaboration, knowledge sharing, and the formation of new international research connections.
 </p>
-
+<div class="cta-inline">
+    <a class="btn btn-custom btn-lg" href="Program_book_2025_TW-JP_Neuro_Exchange.pdf" target="_blank">Program</a>
+</div>
 <!--more-->
 
 

@@ -18,7 +18,9 @@ The program featured multiple short-talk sessions delivered by assistant profess
 <p>
 An extended free discussion session formed a core part of the workshop, providing a relaxed environment for in-depth scientific exchange, methodological discussion, and exploration of potential collaborations.
 </p>
-
+<div class="cta-inline">
+    <a class="btn btn-custom btn-lg" href="Program_book_2024_TW-JP_Young_Neuro_Exchange.pdf" target="_blank">Program</a>
+</div>
 <!--more-->
 
 
