@@ -79,7 +79,7 @@ sections:
         </iframe>
 
     design:
-      columns: '1'
+      columns: '2'
 
   - block: contact
     content:
@@ -94,7 +94,7 @@ sections:
         </iframe>
 
     design:
-      columns: '1'
+      columns: '2'
 
   - block: contact
     content:
