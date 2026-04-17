@@ -85,7 +85,8 @@ sections:
         <b>Accommodation</b>
         <br>
         <p>
-        On-campus accommodation is available at the Academia Sinica <a href="https://dga.sinica.edu.tw/posts/78730/switch?locale=en" target="_blank">Guest House</a>.
+        On-campus accommodation is available at the Academia Sinica <a href="https://tlathena.ec-hotel.net/webhotel-v4/0081/index?locale=en&_rand=cjt1b1qpqn9" target="_blank">Guest House</a>.
+        <br>
         Availability is limited, and early reservation is recommended.
         Hotels are also available in the nearby Nangang area.
         </p>
@@ -93,8 +94,7 @@ sections:
         <br>
         <p>
         Most visitors can enter Taiwan visa-free for short stays, depending on nationality.
-        </p>
-        <p>
+        <br>
         For more detailed information, including visa requirements, currency, telecommunications, and transportation, please refer to <a href="https://eng.taiwan.net.tw/m1.aspx?sNo=0000218" target="_blank">Taiwan Travel Information</a>
         </p>
         
