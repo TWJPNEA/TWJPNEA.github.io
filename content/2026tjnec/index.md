@@ -18,7 +18,7 @@ sections:
         </div>
         <br>
         <p>
-        We are pleased to host the Taiwan–Japan Neuroscience Exchange Conference, held alongside the Taiwan Society for Neuroscience Annual Meeting (August 21–23, 2026, Taipei, Taiwan). This workshop aims to foster scientific exchange and long-term collaboration between neuroscience communities in Taiwan and Japan.
+        We are pleased to host the Taiwan–Japan Neuroscience Exchange Conference, held alongside <a href="https://tsfn.neuroscience.org.tw/" target="_blank"> the Taiwan Society for Neuroscience Annual Meeting (August 21–23, 2026, Taipei, Taiwan)</a>. This workshop aims to foster scientific exchange and long-term collaboration between neuroscience communities in Taiwan and Japan.
         </p>
         <p>
         The meeting will focus on the theme "Islands of Mountain and Ocean", highlighting cross-species neuroscience research across multiple levels, from molecular mechanisms to behavior.
