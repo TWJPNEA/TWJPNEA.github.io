@@ -130,4 +130,18 @@ sections:
     design:
       columns: '2'
 
+  - block: contact
+    content:
+      #title: Contact
+      text: 
+        <h2 id="Poster">Poster</h2>
+
+        <iframe 
+          src="TW-JP_Neuro_poster.pdf" 
+          width="100%" 
+          height="600px" >
+        </iframe>
+
+    design:
+      columns: '2'
 ---
