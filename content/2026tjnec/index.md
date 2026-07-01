@@ -43,10 +43,6 @@ sections:
         <br>
         Venue<b>:</b> B1C Auditorium, IBMS, Academia Sinica, Taipei, Taiwan
         <br>
-        <div>
-        <img src="campus_map.png">
-        </div>
-        <br>
         Organizers<b>:</b> Kuo-Sheng Lee, Nao Nakagawa-Tamagawa, Pin-Wu Liu, Takeshi Imai
         <br>
         Co-organizers<b>:</b>
@@ -116,6 +112,16 @@ sections:
         <p>
         Academia Sinica is accessible from Taiwan Taoyuan International Airport (TPE, approximately 40–60 minutes) and Taipei Songshan Airport (TSA, approximately 20–30 minutes) by taxi or public transportation.
         </p>
+        <br>
+        <p>
+        The main venue is B1C Auditorium, located on the B1 floor of the Institute of Biomedical Sciences (IBMS) on the Academia Sinica campus.
+        </p>
+        <br>
+        <div>
+        <img src="campus_map.png">
+        </div>
+        <br>
+
         <b>Accommodation</b>
         <br>
         <p>
