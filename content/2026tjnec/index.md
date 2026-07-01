@@ -43,6 +43,10 @@ sections:
         <br>
         Venue<b>:</b> B1C Auditorium, IBMS, Academia Sinica, Taipei, Taiwan
         <br>
+        <div>
+        <img src="campus_map.png">
+        </div>
+        <br>
         Organizers<b>:</b> Kuo-Sheng Lee, Nao Nakagawa-Tamagawa, Pin-Wu Liu, Takeshi Imai
         <br>
         Co-organizers<b>:</b>
