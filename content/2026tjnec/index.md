@@ -48,16 +48,16 @@ sections:
         Co-organizers<b>:</b>
         </p>
         <div>
-        <a href="https://plaza.umin.ac.jp/dynamic-brain/en/" target="_blank">
-        <img src="DynamicBrain.png">
-        </a>
-        </div>
-        <br>
-        <div>
         <a href="https://www.ibms.sinica.edu.tw/" target="_blank">
         <img src="IBMS.png">
         </a>
         </div>
+        <br>
+        <div>
+        <a href="https://plaza.umin.ac.jp/dynamic-brain/en/" target="_blank">
+        <img src="DynamicBrain.png">
+        </a>
+        </div>        
         <br>
         <div class="cta-inline">
         <a href="https://www.onset-eo.com/" target="_blank">
