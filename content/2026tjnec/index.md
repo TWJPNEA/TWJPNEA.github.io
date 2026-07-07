@@ -59,7 +59,7 @@ sections:
         </a>
         </div>
         <br>
-        <div>
+        <div class="cta-inline">
         <a href="https://www.onset-eo.com/" target="_blank">
         <img src="LOGO_1.jpg" width="350px">
         </a>
