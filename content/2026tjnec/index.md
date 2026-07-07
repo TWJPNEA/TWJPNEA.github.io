@@ -58,6 +58,17 @@ sections:
         <img src="IBMS.png">
         </a>
         </div>
+        <br>
+        <div>
+        <a href="https://www.onset-eo.com/" target="_blank">
+        <img src="LOGO_1.jpg">
+        </a>
+        </div>
+        <div>
+        <a href="https://www.pentagontek.com/" target="_blank">
+        <img src="LOGO_2.jpg">
+        </a>
+        </div>
         #{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
         
         #<div>
