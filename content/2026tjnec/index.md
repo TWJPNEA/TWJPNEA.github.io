@@ -61,10 +61,10 @@ sections:
         <br>
         <div class="cta-inline">
         <a href="https://www.onset-eo.com/" target="_blank">
-        <img src="LOGO_1.jpg" width="200px">
+        <img src="LOGO_1.jpg" width="250px">
         </a> &nbsp;&nbsp;&nbsp;
         <a href="https://www.pentagontek.com/" target="_blank">
-        <img src="LOGO_2.jpg" width="200px">
+        <img src="LOGO_2.jpg" width="300px">
         </a>
         </div>
         #{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
