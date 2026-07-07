@@ -45,6 +45,7 @@ sections:
         <br>
         Organizers<b>:</b> Kuo-Sheng Lee (Academia Sinica), Nao Nakagawa-Tamagawa (Kagoshima University), Pin-Wu Liu (National Yang Ming Chiao Tung University), Takeshi Imai (Kyushu University)
         <br>
+        <br>
         Co-organizers<b>:</b>
         </p>
         <div>
@@ -59,6 +60,8 @@ sections:
         </a>
         </div>        
         <br>
+        <br>
+        Sponsors<b>:</b>
         <div class="cta-inline">
         <a href="https://www.onset-eo.com/" target="_blank">
         <img src="LOGO_1.jpg" width="250px">
