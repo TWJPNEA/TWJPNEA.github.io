@@ -61,7 +61,7 @@ sections:
         <br>
         <div>
         <a href="https://www.onset-eo.com/" target="_blank">
-        <img src="LOGO_1.jpg">
+        <img src="LOGO_1.jpg" width="150px">
         </a>
         </div>
         <div>
