@@ -34,6 +34,8 @@ sections:
         <br>
         <b>Pre-registration deadline:</b> July 31, 2026 (Friday)
         <br>
+        (Please note that the lab tour is not available for registrations submitted during the extended period.)
+        <br>
         <b>Poster & Oral submission deadline:</b> June 30, 2026 (Tuesday)
         <br>
         (Notification of selection results will be sent via email)
