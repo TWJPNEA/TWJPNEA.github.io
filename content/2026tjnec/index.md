@@ -30,6 +30,8 @@ sections:
         We warmly welcome students and postdoctoral researchers, and encourage active interaction and networking throughout the workshop.
         </p>
         <p>
+        <del><b>Pre-registration deadline:</b> July 15, 2026 (Friday)<del>
+        <br>
         <b>Pre-registration deadline:</b> July 15, 2026 (Friday)
         <br>
         <b>Poster & Oral submission deadline:</b> June 30, 2026 (Wednesday)
