@@ -5,7 +5,8 @@ date: 2026-07-14
 #  focal_point: 'top'
 ---
 
-The pre-registration deadline has been extended to July 31, 2026. Please note that the lab tour is not available for registrations submitted during the extended period. Thank you for your understanding.
+The pre-registration deadline has been extended to July 31, 2026. 
+Please note that the lab tour is not available for registrations submitted during the extended period. Thank you for your understanding.
 
 <!--more-->
 

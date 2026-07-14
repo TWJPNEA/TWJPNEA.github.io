@@ -1,5 +1,5 @@
 ---
-title: Save the Date! 
+title: Save the Date
 date: 2026-01-01
 #image:
 #  focal_point: 'top'
