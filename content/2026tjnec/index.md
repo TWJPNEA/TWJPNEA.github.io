@@ -24,7 +24,7 @@ sections:
         The meeting will focus on the theme "Islands of Mountain and Ocean", highlighting cross-species neuroscience research across multiple levels, from molecular mechanisms to behavior.
         </p>
         <p>
-        <u>We invite participants to present their work through poster or oral presentations.</u> Both sessions will take place on the first afternoon. Please note that presentation slots are limited and will be selected based on relevance and program balance. Short oral presentations (5–10 minutes) will be prioritized for early-career researchers who have recently established their own research groups.
+        We invite participants to present their work through poster or oral presentations. Both sessions will take place on the first afternoon. Please note that presentation slots are limited and will be selected based on relevance and program balance. Short oral presentations (5–10 minutes) will be prioritized for early-career researchers who have recently established their own research groups.
         </p>
         <p>
         We warmly welcome students and postdoctoral researchers, and encourage active interaction and networking throughout the workshop.
