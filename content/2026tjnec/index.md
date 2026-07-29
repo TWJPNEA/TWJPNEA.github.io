@@ -95,6 +95,8 @@ sections:
         #<div>
         #  <img src="QRcode.png">
         #</div>
+        
+        #<a class="btn btn-custom btn-lg" href="Conference_book.pdf" target="_blank">Conference Book</a>
 
     design:
       columns: '2'
