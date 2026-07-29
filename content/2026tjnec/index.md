@@ -81,6 +81,7 @@ sections:
         <img src="LOGO_2.jpg" width="450px">
         </a>&nbsp;&nbsp;
         </div>
+        <div class="cta-inline">
         <a href="https://www.uni-onward.com.tw/" target="_blank">
         <img src="LOGO_uni-onward.png" width="300px">
         </a> 
