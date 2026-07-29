@@ -81,13 +81,14 @@ sections:
         <img src="LOGO_2.jpg" width="450px">
         </a>&nbsp;&nbsp;
         </div>
+        <br>
         <div class="cta-inline">
         <a href="https://www.uni-onward.com.tw/" target="_blank">
         <img src="LOGO_uni-onward.png" width="300px">
-        </a> 
+        </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.toolsbiotech.com/" target="_blank">
-        <img src="LOGO_BIOTOOLS.png" width="380px">
-        </a>
+        <img src="LOGO_BIOTOOLS.png" width="400px">
+        </a>&nbsp;&nbsp;
         </div>
         #{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
         
