@@ -90,6 +90,15 @@ sections:
         <img src="LOGO_BIOTOOLS.png" width="400px">
         </a>&nbsp;&nbsp;
         </div>
+        <br>
+        <div class="cta-inline">
+        <a href="https://www.regalpaper.com.tw/brytefield.html" target="_blank">
+        <img src="LOGO_brytefield.png" width="400px">
+        </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.major.com.tw/" target="_blank">
+        <img src="LOGO_major.png" width="300px">
+        </a>&nbsp;&nbsp;
+        </div>
         #{{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSfICjT5qumpGMZKD-AswN0BMlIyZQr9P6g7Q2eVUTbGQBi9dQ/viewform?pli=1" cta_text="Registration →" %}}
         
         #<div>
