@@ -11,6 +11,7 @@ sections:
         <h2>2026 Taiwan-Japan Neuroscience Exchange Conference</h2>
         
         <div class="cta-inline">
+          <a class="btn btn-custom btn-lg" href="Conference_book.pdf" target="_blank">Conference Book</a>
           <a class="btn btn-custom btn-lg" href="Program.pdf" target="_blank">Program</a>
           <a class="btn btn-custom btn-lg" href="Speaker_info.pdf" target="_blank">Speakers</a>
           <a class="btn btn-custom btn-lg" href="#travel">Travel Info </a>
@@ -104,8 +105,6 @@ sections:
         #<div>
         #  <img src="QRcode.png">
         #</div>
-        
-        #<a class="btn btn-custom btn-lg" href="Conference_book.pdf" target="_blank">Conference Book</a>
 
     design:
       columns: '2'
