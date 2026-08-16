@@ -100,6 +100,7 @@ sections:
         <img src="LOGO_major.png" width="300px">
         </a>&nbsp;&nbsp;
         </div>
+        <br>
         <div class="cta-inline">
         <a href="https://www.zeiss.com.tw/" target="_blank">
         <img src="LOGO_ZEISS.jpg" width="350px">
